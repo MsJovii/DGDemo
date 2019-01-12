@@ -1,0 +1,13 @@
+The road of these short words and numbers amaze me wierdly enough...
+practice 
+so make a dir 
+then a notepad or other software for typing code out 
+in practice 
+
+mk dirName 
+cd (into) dirName 
+start notepad NoteName 
+MessageBox prompt 
+change  & save 
+me.close 
+ 
