@@ -1,1 +1,10 @@
 NEWER
+to directly open a page it is as such 
+
+cd dgdemo 
+dir 
+mytext.txt 
+Opens 
+change and save 
+how to push it tho?
+change some stuff.
